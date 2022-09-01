@@ -1,0 +1,1 @@
+### XMLs contain pretrained HAAR models for recognizing faces, smiles and eyes
